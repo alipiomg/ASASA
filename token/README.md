@@ -9,7 +9,7 @@ coverY: 0
 
 # 🪙 LangX Token
 
-## LangX: The Economy-Token of the Language-Exchange Platform
+## Asasa la plataforma para poder agradecer y creart un nuevo mundo tokenizado
 
 [LangX](../) stands as the proprietary economy-token for its namesake platform—a unique, free, open-source, and community-driven arena for language exchange. This document aims to shed light on all aspects of LangX, offering a comprehensive overview for newcomers and existing users alike.
 
